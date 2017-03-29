@@ -1,0 +1,10 @@
+baekmuk
+=======
+
+a collection of cute korean bitmap fonts. could not find this for the life of me so cloning from the freebsd copy of these fonts.
+
+should work well with other bitmap fonts such as lemon, leggie, tewi...
+
+hopefully i add this to the aur at some unspecified point in time
+
+requires: bdftopcf
