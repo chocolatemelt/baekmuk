@@ -1,10 +1,14 @@
 baekmuk
 =======
 
-a collection of cute korean bitmap fonts. could not find this for the life of me so cloning from the freebsd copy of these fonts.
+a collection of cute korean bitmap fonts. could not find this for the life of me so cloning from the freebsd copy of these fonts. these are bitmap equivalents to the ttf-baekmuk package in arch linux
 
 should work well with other bitmap fonts such as lemon, leggie, tewi...
 
-hopefully i add this to the aur at some unspecified point in time
+included is an alias.sh bash script to copy the fonts.alias into /usr/share/fonts/misc/fonts.alias after installation to that directory.
+
+this comes with a legacy fonts.alias (the one that came with the package) and my own, more readable fonts.alias
 
 requires: bdftopcf
+
+now on the AUR: bdf-baekmuk-git
